@@ -1,4 +1,5 @@
 # run_analysis.R
+rm(list = ls())
 dataName <- "getdata_dataset.zip"
 
 # Download and unzip the dataset
